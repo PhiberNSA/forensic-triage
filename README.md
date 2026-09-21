@@ -2,7 +2,6 @@
 
 **A zero-dependency digital forensics triage toolkit.** Hash, identify and score files, carve files out of raw disk images, harvest indicators of compromise and build MACB timelines. Read-only by design, pure Python standard library.
 
-[![CI](https://github.com/PhiberNSA/forensic-triage/actions/workflows/ci.yml/badge.svg)](https://github.com/PhiberNSA/forensic-triage/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
